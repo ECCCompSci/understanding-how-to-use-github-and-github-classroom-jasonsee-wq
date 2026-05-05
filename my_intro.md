@@ -8,11 +8,11 @@
 
 **What is your first and last name?**
 
-My name is: _____
+My name is: Coy See
 
 **What grade are you in?**
 
-I am in: _____ grade.
+I am in: 10th grade.
 
 ---
 
@@ -20,11 +20,11 @@ I am in: _____ grade.
 
 **Have you used GitHub before this class? (Yes / No)**
 
-Answer: _____
+Answer: Yes
 
 **On a scale of 1–5, how comfortable are you with computers and technology? (1 = not at all, 5 = very comfortable)**
 
-Rating: _____
+Rating: 4
 
 ---
 
@@ -32,7 +32,7 @@ Rating: _____
 
 **In your own words, what does it mean to "clone" a repository?**
 
-Answer: _____
+Answer: To create a copy of an original repository for editing purposes
 
 ---
 
@@ -40,7 +40,7 @@ Answer: _____
 
 **Describe the steps you followed to turn in this assignment. What did you do after editing this file?**
 
-Answer: _____
+Answer: First I saved the changes I made to this file, then I clicked the source icon and submitted a commit message in the message box, finally I clicked the commit button and the sync button to then have successfully submitted the file.
 
 ---
 
@@ -48,7 +48,7 @@ Answer: _____
 
 **Share one fun fact about yourself:**
 
-Fun fact: _____
+Fun fact: I do three different sports.
 
 ---
 
